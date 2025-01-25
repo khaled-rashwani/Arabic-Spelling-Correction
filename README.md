@@ -53,13 +53,13 @@ The project relies on three main types of data for training and evaluation:
 ## Results and Comparison
 
 - **AraBART** outperformed the other models in correcting grammatical errors, making it the most suitable model for handling complex sentence structures.
-### F1 Score Comparison
+# F1 Score Comparison
 ![Comparison of F1 Scores](https://github.com/khaled-rashwani/Arabic-Spelling-Correction/blob/main/images/F1%20Score.png?raw=true)
 
-### Precision Score Comparison
+# Precision Score Comparison
 ![Comparison of Precision Scores](https://github.com/khaled-rashwani/Arabic-Spelling-Correction/blob/main/images/Precision.png?raw=true)
 
-### Recall Score Comparison
+# Recall Score Comparison
 ![Comparison of Recall Scores](https://github.com/khaled-rashwani/Arabic-Spelling-Correction/blob/main/images/Recall.png?raw=true)
 
 - **LSTM** showed strong performance in predicting the next word in a sequence, which helps in improving the coherence and flow of Arabic text.
