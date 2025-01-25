@@ -53,6 +53,14 @@ The project relies on three main types of data for training and evaluation:
 ## Results and Comparison
 
 - **AraBART** outperformed the other models in correcting grammatical errors, making it the most suitable model for handling complex sentence structures.
+- # F1 Score Comparison
+![Comparison of F1 Scores](images/F1%20Score.png)
+
+# Precision Score Comparison
+![Comparison of Precision Scores](images/Precision.png)
+
+# Recall Score Comparison
+![Comparison of Recall Scores](images/Recall.png)
 - **LSTM** showed strong performance in predicting the next word in a sequence, which helps in improving the coherence and flow of Arabic text.
 - **Levenshtein Distance** was highly effective in correcting spelling errors at the word level, especially for words with complex morphological variations.
 
